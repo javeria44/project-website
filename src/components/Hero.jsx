@@ -21,7 +21,7 @@ export default function Hero() {
             Request a Free Quote
           </a>
           <a href="tel:0406926792" className="border border-paper/30 px-7 py-3.5 rounded-sm font-condensed font-bold uppercase tracking-wide hover:border-amber hover:text-amber transition-colors">
-            Call 0406 926 792
+            Call 0470308312
           </a>
         </div>
 

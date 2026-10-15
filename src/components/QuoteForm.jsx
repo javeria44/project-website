@@ -25,7 +25,7 @@ Service required: ${form.service}
 Project details:
 ${form.details}`
     );
-    window.location.href = `mailto:shaharyar1892@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:ranahussnain112a@gmail.com?subject=${subject}&body=${body}`;
     setSent(true);
   };
 
@@ -41,7 +41,7 @@ ${form.details}`
             <h2 className="font-condensed font-extrabold uppercase text-4xl leading-[0.95] mb-4">Request a quote</h2>
             <p className="text-slab mb-6">
               Tell us about the job and we'll get back to you with pricing and a timeframe.
-              Prefer to talk it through? Call <a href="tel:0406926792" className="text-charcoal font-semibold underline decoration-amber decoration-2 underline-offset-2">0406 926 792</a>.
+              Prefer to talk it through? Call <a href="tel:0470308312" className="text-charcoal font-semibold underline decoration-amber decoration-2 underline-offset-2">0470308312</a>.
             </p>
             <div className="hidden md:block h-40 rounded-sm formwork-grid border border-charcoal/10"></div>
           </div>

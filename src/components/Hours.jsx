@@ -26,18 +26,18 @@ export default function Hours() {
           <Eyebrow dark>Get in touch</Eyebrow>
           <h2 className="font-condensed font-extrabold uppercase text-4xl mb-8">Contact details</h2>
           <div className="space-y-5 font-body">
-            <a href="tel:0406926792" className="flex items-start gap-3 group">
+            <a href="tel:0470308312" className="flex items-start gap-3 group">
               <span className="text-amber mt-1">☎</span>
               <span>
                 <span className="block text-paper/50 text-xs font-mono uppercase tracking-wide">Phone</span>
-                <span className="text-lg group-hover:text-amber transition-colors">0406 926 792</span>
+                <span className="text-lg group-hover:text-amber transition-colors">0470308312</span>
               </span>
             </a>
-            <a href="mailto:shaharyar1892@gmail.com" className="flex items-start gap-3 group">
+            <a href="mailto:ranahussnain112a@gmail.com" className="flex items-start gap-3 group">
               <span className="text-amber mt-1">✉</span>
               <span>
                 <span className="block text-paper/50 text-xs font-mono uppercase tracking-wide">Email</span>
-                <span className="text-lg group-hover:text-amber transition-colors break-all">shaharyar1892@gmail.com</span>
+                <span className="text-lg group-hover:text-amber transition-colors break-all">ranahussnain112a@gmail.com</span>
               </span>
             </a>
             <div className="flex items-start gap-3">

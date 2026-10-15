@@ -8,7 +8,7 @@ export default function Footer() {
         <Logo variant="light" />
         <div className="font-mono text-xs leading-relaxed">
           <div>56 Argyle Street, Fawkner VIC 3060</div>
-          <div>0406 926 792 · shaharyar1892@gmail.com</div>
+          <div>0470308312 · ranahussnain112a@gmail.com</div>
         </div>
         <div className="font-mono text-xs">&copy; {new Date().getFullYear()} Shaharyar Concrete Pty Ltd</div>
       </div>
