@@ -15,7 +15,7 @@ export default function Logo({ variant = "light", className = "" }) {
         <path d="M18 21c0-1.7 1.6-2.5 3.4-2.5 1.5 0 2.6.6 3.1 1.4M18 21c0 1.7 1.6 2.3 3.4 2.3 1.9 0 3.4-.8 3.4-2.4" stroke={ink} strokeWidth="1.4" strokeLinecap="round"/>
       </svg>
       <div className="leading-none">
-        <div className="font-condensed font-extrabold tracking-wide text-[1.05rem]" style={{color: ink}}>SHAHARYAR</div>
+        <div className="font-condensed font-extrabold tracking-wide text-[1.05rem]" style={{color: ink}}>RANA & CO</div>
         <div className="font-mono text-[0.62rem] tracking-[0.25em]" style={{color: amber}}>CONCRETE&nbsp;PTY&nbsp;LTD</div>
       </div>
     </div>

@@ -13,7 +13,7 @@ export default function About() {
         </div>
         <div className="md:col-span-8">
           <p className="text-lg text-slab leading-relaxed">
-            Shaharyar Concrete Pty Ltd is a Melbourne-based concreting business specialising in
+           RANA & CO Pty Ltd is a Melbourne-based concreting business specialising in
             <strong className="text-charcoal"> house slabs and commercial driveways</strong>. From
             excavation and formwork through to the final finish, we handle every stage of the pour
             ourselves — so there's one crew accountable for the whole job, not three subcontractors

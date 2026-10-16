@@ -13,7 +13,7 @@ export default function Hero() {
           <span className="text-amber">You build on it.</span>
         </h1>
         <p className="mt-6 max-w-xl text-paper/75 text-lg font-body">
-          Shaharyar Concrete lays the ground floor for Melbourne homes and businesses —
+         RANA & CO lays the ground floor for Melbourne homes and businesses —
           house slabs, commercial driveways and formwork, finished level, on time, every pour.
         </p>
         <div className="mt-9 flex flex-wrap items-center gap-4">

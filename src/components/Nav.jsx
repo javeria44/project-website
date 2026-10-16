@@ -50,7 +50,7 @@ export default function Nav() {
           ))}
         </nav>
         <div className="hidden md:flex items-center gap-5">
-          <a href="tel:0406926792" className="font-mono text-sm text-paper/90 hover:text-amber transition-colors">0406&nbsp;926&nbsp;792</a>
+          <a href="tel:0470308312" className="font-mono text-sm text-paper/90 hover:text-amber transition-colors">047&nbsp;030&nbsp;8312</a>
 
           <Link to="/cart" aria-label="View cart" className="relative text-paper/90 hover:text-amber transition-colors">
             <CartIcon />
@@ -105,7 +105,7 @@ export default function Nav() {
           ) : (
             <Link to="/login" onClick={() => setOpen(false)} className="hover:text-amber transition-colors">Login</Link>
           )}
-          <a href="tel:0406926792" className="font-mono text-sm text-amber">Call 0406 926 792</a>
+          <a href="tel:0470308312" className="font-mono text-sm text-amber">Call 0470308312</a>
         </div>
       )}
     </header>
